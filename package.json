@@ -1,0 +1,23 @@
+{
+  "name": "ibw-cli",
+  "version": "1.0.1",
+  "description": "",
+  "bin": {
+    "ibw-cli": "bin/index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wf863409877/bw-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wf863409877/bw-cli/issues"
+  },
+  "homepage": "https://github.com/wf863409877/bw-cli#readme"
+}
