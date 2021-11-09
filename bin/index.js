@@ -1,2 +1,5 @@
 #!/usr/bin/env node
-console.log("欢迎使用ibw-cli v1.0 ✨");
+const lib = require("ibw-cli-lib");
+const { argv } = require("process");
+console.log(argv);
+console.log("欢迎使用ibw-cli v1.2 ✨");

@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/wf863409877/bw-cli/issues"
   },
-  "homepage": "https://github.com/wf863409877/bw-cli#readme"
+  "homepage": "https://github.com/wf863409877/bw-cli#readme",
+  "dependencies": {
+    "ibw-cli-lib": "^1.0.0"
+  }
 }
